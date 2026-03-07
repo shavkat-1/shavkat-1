@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я Шавкат 👋
 
-<!--
-**shavkat-1/shavkat-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик с фокусом на PHP / Laravel.
 
-Here are some ideas to get you started:
+## 🛠 Стек
+- PHP 8.3, Laravel 12
+- MySQL, REST API
+- Docker, Nginx
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Проекты
+- [ShopCore](https://github.com/shavkat-1/shopcore-laravel) — интернет-магазин (Laravel, Passport, Swagger)
+- [WB API](https://github.com/shavkat-1/wb-api) — импорт данных с внешнего API (Laravel, Docker, Aiven)
+- [Mini CRM](https://github.com/shavkat-1/mini-crm) — CRM для заявок (Spatie, Swagger)
+- [Todo API](https://github.com/shavkat-1/todo-api) — REST API для задач
+
+## 📫 Контакты
+- Telegram: [@homidovShavkat](https://t.me/homidovShavkat)
+- Email: master1brave@gmail.com
