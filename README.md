@@ -15,5 +15,5 @@ Backend-разработчик с фокусом на PHP / Laravel.
 - [Todo API](https://github.com/shavkat-1/todo-api) — REST API для задач
 
 ## 📫 Контакты
-- Telegram: [@homidovShavkat](https://t.me/homidovShavkat)
+- Telegram: [@shavkati_maruf](https://t.me/shavkati_maruf)
 - Email: master1brave@gmail.com
